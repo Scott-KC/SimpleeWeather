@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 
-title: [Simpli Weather]
+title: Simpli Weather
+
+show_downloads: true
 
