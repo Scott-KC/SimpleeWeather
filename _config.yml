@@ -1,7 +1,8 @@
 theme: jekyll-theme-cayman
 
 title: [Simpli Weather]
-description: [Simpli Weather is a simple weather app, with everything you may need, without the ads. This app was developed to be an alternative to other apps with advertisements.]
+description: [Simpli Weather is a simple weather app with everything you may need, without the ads. 
+This app was developed to be an alternative to other apps with ads or other information not relevant to anything that may or may not be falling from the sky.]
 
 
 show_downloads: [true]
