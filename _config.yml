@@ -4,3 +4,7 @@ title: Simpli Weather
 
 show_downloads: true
 
+github: 
+  zip_url: http://example.com/download.zip
+    another_url: http://www.google.com
+
