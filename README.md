@@ -6,7 +6,7 @@ and current weather alerts are pulled directly from the National Weather Service
 # Roadmap 
 The app itself does just about all of the functions that it needs. However, I do want to implement a radar at some point. 
 
-# Privacy
+# Privacy Policy
 The only time we retrieve your location is when we are looking for weather. Once your location is found, either by city, state search or using the location button we stop updating your location. This is then sent over the internet to our APIs so that we can grab your weather conditions. This information is never saved to a server. If you do not feel comfortable with us using your phone's location to pull in your area please know that you may always use the search bar instead. 
 
 # Support
